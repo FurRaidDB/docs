@@ -5,3 +5,5 @@
   - [Lokální databáze](typy-databazi.md?id=lokální-databáze)  
   
 - [**Tým**](tym.md?id=tým)
+
+- [**Funkce whitelist**](whitelist.md?id=funkce-whitelist)
