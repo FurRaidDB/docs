@@ -1,6 +1,6 @@
 # Nastavení
 
-> Všechny uvedené příkazy jsou určené pro majitele serveru
+> Všechny uvedené příkazy jsou určené pro uživatelé s ADMINISTRÁTOR právy na serveru
 
 Zobrazení aktuálního nastavení přes příkaz `frdb!set`
 
